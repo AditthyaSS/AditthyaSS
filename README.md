@@ -3,7 +3,7 @@
 <!-- ======================= -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,24,30&height=300&section=header&text=Aditthya%20SS%20Varma&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast&descSize=30&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Aditthya%20SS%20Varma&fontSize=70&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast&descSize=25&descAlignY=55"
     alt="Aditthya SS Varma Banner"
   />
 </div>
@@ -58,34 +58,21 @@
 <p align="center">
   <a href="https://github.com/AditthyaSS">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=AditthyaSS&theme=radical&hide_border=true&background=0D1117&stroke=A177FE&ring=A177FE&fire=A177FE"
+      src="https://nirzak-streak-stats.vercel.app?user=AditthyaSS&theme=radical&hide_border=true&background=0D1117&stroke=A177FE&ring=A177FE&fire=A177FE&currStreakNum=A177FE&sideNums=A177FE&currStreakLabel=A177FE&sideLabels=A177FE&dates=FFFFFF"
       alt="Aditthya's GitHub Streak"
     />
   </a>
 </p>
 
 <!-- ======================= -->
-<!-- GitHub Stats & Top Languages -->
+<!-- GitHub Stats -->
 <!-- ======================= -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api?username=AditthyaSS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&include_all_commits=true&count_private=true"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td>
-        <img
-          height="180em"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditthyaSS&theme=radical&hide_border=true&bg_color=0D1117&title_color=A177FE&layout=compact&langs_count=8"
-          alt="Top Languages"
-        />
-      </td>
-    </tr>
-  </table>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=AditthyaSS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=FFFFFF&count_private=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 </div>
 
 <!-- ======================= -->
@@ -96,23 +83,6 @@
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=AditthyaSS&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&area_color=A177FE&hide_border=true"
       alt="Aditthya's Contribution Graph"
-    />
-  </a>
-</p>
-
-<!-- ======================= -->
-<!-- GitHub Trophies -->
-<!-- ======================= -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
-  <span style="color:#A177FE;">GITHUB TROPHIES</span>
-</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=AditthyaSS&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" 
-      alt="GitHub Trophies"
     />
   </a>
 </p>
@@ -145,21 +115,11 @@
   
 </div>
 
-<!-- ======================= -->
-<!-- Random Dev Quote -->
-<!-- ======================= -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px">
-  <span style="color:#A177FE;">RANDOM DEV QUOTE</span>
-</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_border_color=A177FE" alt="Random Dev Quote"/>
-</div>
+<br/>
 
 <!-- ======================= -->
 <!-- Footer Wave -->
 <!-- ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,24,30&height=150&section=footer" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer" alt="Footer Wave"/>
 </div>
