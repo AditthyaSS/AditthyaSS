@@ -68,10 +68,12 @@
 <!-- GitHub Stats -->
 <!-- ======================= -->
 <div align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px" alt="Octocat Logo"/>
+  <br/>
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=AditthyaSS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=FFFFFF&count_private=true&include_all_commits=true"
-    alt="GitHub Stats"
+    alt=""
   />
 </div>
 
