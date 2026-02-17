@@ -3,7 +3,7 @@
 <!-- ======================= -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=300&section=header&text=Aditthya%20SS%20Varma&fontSize=70&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast&descSize=25&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,30,20&height=300&section=header&text=Aditthya%20SS%20Varma&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast&descSize=25&descAlignY=55"
     alt="Aditthya SS Varma Banner"
   />
 </div>
@@ -121,5 +121,5 @@
 <!-- Footer Wave -->
 <!-- ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,30,20&height=150&section=footer" alt="Footer Wave"/>
 </div>
