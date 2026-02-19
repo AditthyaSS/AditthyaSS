@@ -1,12 +1,12 @@
-<!-- ======================= -->
-<!-- Banner Header -->
-<!-- ======================= -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,30,20&height=300&section=header&text=Aditthya%20SS%20Varma&fontSize=70&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast&descSize=25&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6,9,12,15,18,20,21,24,27,30&height=300&section=header&text=Aditthya%20SS%20Varma&fontSize=60&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Dev%20Mode:%20%E2%9A%A1%20ON%20|%20Tech%20Enthusiast&descSize=22&descAlignY=55&font=Orbitron"
     alt="Aditthya SS Varma Banner"
   />
 </div>
+
+
+
 
 <!-- ======================= -->
 <!-- Developer Animation -->
