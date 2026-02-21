@@ -123,5 +123,5 @@
 <!-- Footer Wave -->
 <!-- ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,30,20&height=150&section=footer" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,6,9,12,15,18,20,21,24,27,30&height=150&section=footer&text=STAY%20CURIOUS%20%E2%9A%A1&fontSize=28&fontColor=fff&fontAlignY=65" alt="Footer Wave"/>
 </div>
