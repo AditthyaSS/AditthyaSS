@@ -114,9 +114,11 @@
   <a href="https://portfolio-website.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://dev.to/aditthyass" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
   
 </div>
-
 <br/>
 
 <!-- ======================= -->
