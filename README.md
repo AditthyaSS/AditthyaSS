@@ -99,13 +99,13 @@
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/aditthyass" target="_blank">
+  <a href="https://www.linkedin.com/in/aditthya-s-s-varma-8781012a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/aditthyass" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.aditthyassdeepa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/AditthyaSS" target="_blank">
@@ -114,7 +114,7 @@
   <a href="https://portfolio-website.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://dev.to/aditthyass" target="_blank">
+  <a href="https://dev.to/aditthya" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
   
