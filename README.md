@@ -45,6 +45,23 @@
 </div>
 
 <!-- ======================= -->
+<!-- About Me -->
+<!-- ======================= -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+  <span style="color:#A177FE;">ABOUT ME</span>
+</h2>
+
+```javascript
+const Adi = {
+  name: "Aditthya SS Varma",
+  roles: ["Undergraduate Intern", "AI/ML Engineer", "Tech Enthusiast", "Cloud Engineer", "UI/UX Designer"],
+  location: "Bengaluru, Karnataka, India",
+  focus: ["AI/ML Systems", "Web Apps", "Cloud Computing"],
+};
+```
+
+<!-- ======================= -->
 <!-- GitHub Analytics Header -->
 <!-- ======================= -->
 <h2 align="center">
