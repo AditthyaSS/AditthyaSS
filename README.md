@@ -57,7 +57,7 @@ const Adi = {
   name: "Aditthya SS Varma",
   roles: ["Undergraduate Intern", "AI/ML Engineer", "Tech Enthusiast", "Cloud Engineer", "UI/UX Designer"],
   location: "Bengaluru, Karnataka, India",
-  focus: ["AI/ML Systems", "Web Apps", "Cloud Computing"],
+  focus: ["AI/ML Systems", "Web Apps", "Cloud Computing" , "Open Source"],
 };
 ```
 
