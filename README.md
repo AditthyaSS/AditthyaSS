@@ -58,6 +58,7 @@ const Adi = {
   roles: ["Undergraduate Intern", "AI/ML Engineer", "Tech Enthusiast", "Cloud Engineer", "UI/UX Designer"],
   location: "Bengaluru, Karnataka, India",
   focus: ["AI/ML Systems", "Web Apps", "Cloud Computing" , "Open Source"],
+  quote: "My commits have trust issues: 'final_final_v2_really_final'."
 };
 ```
 
