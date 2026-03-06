@@ -59,6 +59,7 @@ const Adi = {
   location: "Bengaluru, Karnataka, India",
   focus: ["AI/ML Systems", "Web Apps", "Cloud Computing" , "Open Source", "GenAI"]
   quote: "My commits have trust issues: 'final_final_v2_really_final'."
+  sayHi: () => "Building AI-powered solutions for real-world challenges! Let's innovate together! 🚀"
 };
 ```
 
