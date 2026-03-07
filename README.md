@@ -57,8 +57,9 @@ const Adi = {
   name: "Aditthya SS Varma",
   roles: ["Undergraduate Intern", "AI/ML Engineer", "Tech Enthusiast", "Cloud Engineer", "UI/UX Designer"],
   location: "Bengaluru, Karnataka, India",
-  focus: ["AI/ML Systems", "Web Apps", "Cloud Computing" , "Open Source", "GenAI"]
+  focus: ["AI/ML Systems", "Web Apps", "Cloud Computing" , "Open Source", "GenAI["
   quote: "My commits have trust issues: 'final_final_v2_really_final'."
+  Skills:[" "]
   sayHi: () => "Building AI-powered solutions for real-world challenges! Let's innovate together! 🚀"
 };
 ```
