@@ -78,7 +78,7 @@ const Adi = {
 <p align="center">
   <a href="https://github.com/AditthyaSS">
     <img
-      src="https://nirzak-streak-stats.vercel.app?user=AditthyaSS&theme=radical&hide_border=true&background=0D1117&stroke=A177FE&ring=A177FE&fire=A177FE&currStreakNum=A177FE&sideNums=A177FE&currStreakLabel=A177FE&sideLabels=A177FE&dates=FFFFFF"
+      src="https://streak-stats.demolab.com?user=AditthyaSS&theme=radical&hide_border=true&background=0D1117&stroke=A177FE&ring=A177FE&fire=A177FE&currStreakNum=A177FE&sideNums=A177FE&currStreakLabel=A177FE&sideLabels=A177FE&dates=FFFFFF"
       alt="Aditthya's GitHub Streak"
     />
   </a>
@@ -92,10 +92,11 @@ const Adi = {
   <br/>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AditthyaSS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=FFFFFF&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=AditthyaSS&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A177FE&icon_color=A177FE&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800"
     alt=""
   />
 </div>
+
 
 <!-- ======================= -->
 <!-- GitHub Contribution Graph -->
