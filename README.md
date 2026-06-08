@@ -131,7 +131,7 @@ const Adi = {
   <a href="https://github.com/AditthyaSS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://portfolio-website.com" target="_blank">
+  <a href="https://adi-portfolio-weld.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://dev.to/aditthya" target="_blank">
