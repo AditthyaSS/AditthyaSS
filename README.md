@@ -24,14 +24,14 @@
   
   <!-- Typing Animation -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;Problem+Solver;Always+Learning+%F0%9F%9A%80;Building+Amazing+Things+%F0%9F%94%A5" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;Problem+Solver;Always+Learning;Building+Amazing+Things;DevOps+Enthusiast;Open+Source+Contributor;Cloud+%2B+Automation+Nerd" 
     alt="Typing SVG" 
   />
 </div>
-
 <!-- ======================= -->
 <!-- GitHub Analytics Header -->
 <!-- ======================= -->
+
 <h2 align="center">
   <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="25px">
   <span style="color:#A177FE;">GITHUB ANALYTICS</span>
@@ -40,6 +40,7 @@
 <!-- ======================= -->
 <!-- GitHub Streak Stats -->
 <!-- ======================= -->
+
 <p align="center">
   <a href="https://github.com/AditthyaSS">
     <img
@@ -52,6 +53,7 @@
 <!-- ======================= -->
 <!-- GitHub Stats -->
 <!-- ======================= -->
+
 <div align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50px" alt="Octocat Logo"/>
   <br/>
