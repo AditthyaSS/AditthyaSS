@@ -3,6 +3,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditthyaSS/AditthyaSS/main/dark.svg">
     <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/AditthyaSS/AditthyaSS/main/light.svg">
   </picture>
+
 </a>
 
 <!-- ======================= -->
