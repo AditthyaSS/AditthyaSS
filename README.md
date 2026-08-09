@@ -1,10 +1,6 @@
-<a href="https://github.com/AditthyaSS/AditthyaSS">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditthyaSS/AditthyaSS/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/AditthyaSS/AditthyaSS/main/light.svg">
-  </picture>
-
-</a>
+<div align="center">
+  <img src="./assets/header (1).png" alt="Header" width="100%" />
+</div>
 
 <!-- ======================= -->
 <!-- Profile Views & Followers -->
