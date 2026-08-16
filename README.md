@@ -92,7 +92,7 @@
   </a>
   &nbsp;
   <a href="https://x.com/Aditthya_SS" target="_blank">
-    <img src="./public/social-media/x-dark.svg" height="45" alt="X"/>
+    <img src="./public/social-media/images.png" height="45" alt="X"/>
   </a>
   &nbsp;
   <a href="mailto:your.aditthyassdeepa@gmail.com">
