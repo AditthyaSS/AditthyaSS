@@ -88,25 +88,31 @@
 <div align="center">
   
   <a href="https://www.linkedin.com/in/aditthya-s-s-varma-8781012a6" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="./public/social-media/linkedin.svg" height="45" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://x.com/Aditthya_SS" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
+    <img src="./public/social-media/x-dark.svg" height="45" alt="X"/>
+  </a>
+  &nbsp;
   <a href="mailto:your.aditthyassdeepa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="./public/social-media/gmail.svg" height="45" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://github.com/AditthyaSS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="./public/social-media/github-light.svg" height="45" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://adi-portfolio-weld.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+    <img src="./public/social-media/av.svg" height="45" alt="Portfolio"/>
   </a>
+  &nbsp;
   <a href="https://dev.to/aditthya" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    <img src="./public/social-media/dev-black.png" height="45" alt="Dev.to"/>
   </a>
+  &nbsp;
   <a href="https://discord.com/users/aditthya_23978" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="./public/social-media/discord.svg" height="45" alt="Discord"/>
   </a>
 </div>
 <br/>
