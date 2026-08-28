@@ -71,7 +71,7 @@
 <p align="center">
   <a href="https://github.com/AditthyaSS">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=AditthyaSS&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&area_color=A177FE&hide_border=true"
+      src="https://github-readme-activity-graph-kappa-five.vercel.app/graph?username=AditthyaSS&bg_color=0D1117&color=A177FE&line=A177FE&point=FFFFFF&area=true&area_color=A177FE&hide_border=true"
       alt="Aditthya's Contribution Graph"
     />
   </a>
